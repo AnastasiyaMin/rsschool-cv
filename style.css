@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Montserrat;
+     src: url("assets/fonts/Montserrat.zip");
+   }
+
+  .nav-link {
+    padding: 0 13px;
+    line-height: 50px;
+  }
+
+  body {
+    font-weight: 200;
+    color: #000000;
+    background-color: #90cbd1; 
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.main h1 {
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 1;
+}
+
