@@ -1,2 +1,7 @@
-# Anastsiya Minkova
-## Contacts .nyastya
+# Anastasiya Minkova
+### Contacts: 
+.nyastya (Discord)
+### About me: 
+Только начинаю изучать веб-разработку. 
+Моя цель - получить столько знаний, сколько смогу, и доказать самой себе, что программирование - это не так страшно, как мне казалось.
+### English A2
